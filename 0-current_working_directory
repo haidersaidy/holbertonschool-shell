@@ -1,0 +1,4 @@
+
+#!/bin/bash
+
+echo "print the current directory : $ (pwd)"
